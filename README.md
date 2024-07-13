@@ -5,4 +5,4 @@ O objetivo deste projeto é desenvolver e treinar uma rede neural para classific
 
 [📃 Doc do Dataset Fashion MNIST](https://www.tensorflow.org/datasets/catalog/fashion_mnist?hl=pt-br)
 
-[📖 Artigo no Medium](https://www.tensorflow.org/datasets/catalog/fashion_mnist?hl=pt-br)
+[📖 Artigo no Medium](https://medium.com/@alvzslivia/desenvolvimento-e-diagn%C3%B3stico-de-problemas-em-modelos-de-classifica%C3%A7%C3%A3o-com-redes-neurais-01dc46628a48)
