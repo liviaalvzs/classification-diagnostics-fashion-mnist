@@ -1,7 +1,7 @@
 # Redes Neurais 🧠💻
 ## Classificando roupas do conjunto de dados MNIST 🛍️👖👗
 
-O objetivo deste projeto é desenvolver e treinar uma rede neural para classificar imagens de roupas do conjunto de dados MNIST. Em particular, queremos que o modelo seja capaz de identificar corretamente o tipo de roupa representado em uma imagem, atribuindo a cada imagem uma das 10 classes correspondentes aos tipos de roupas listados na introdução. 
+Desenvolvimento e treino de uma rede neural para classificar imagens de roupas do conjunto de dados MNIST e sua avaliação, procurando entender os problemas que a rede neural encontrou durante o processo de predição. 
 
 [📃 Doc do Dataset Fashion MNIST](https://www.tensorflow.org/datasets/catalog/fashion_mnist?hl=pt-br)
 
